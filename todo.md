@@ -19,6 +19,7 @@
 - [ ] 動作しているプロセスを確認しておおよその構成を理解する
 - [ ] SEE ALSO: https://gist.github.com/south37/d4a5a8158f49e067237c17d13ecab12a
 - [ ] Cloud Profiler仕込む
+- [ ] DBの初期化について確認する（データ量、insertの方式、DDLの反映方法など）
 
 ## アプリケーション担当1
 - [ ] データサイズ確認 https://github.com/tatsumack/isucon-tools/blob/master/cmd/mysql
